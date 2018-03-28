@@ -29,9 +29,9 @@ form = """
     </head>
     <body>
       <form method="POST">
-        <label><input type="text" name="rot" value:"0"></label>
+        <label><input type="text" name="rot" value="0"></label>
         <br>
-        <label><input type="textarea" name="text" value:"0"</label>
+        <label><textarea type="text" name="text" value="0"></textarea></label>
         <input type="submit" />
     </body>
 </html>
